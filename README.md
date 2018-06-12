@@ -12,6 +12,7 @@ item 2
   1. Item 3 a
 
 ##this is how you add images 
+
 ![GitHub Logo] (/images/logo.png)
 Format: ![Alt Text] (url)
 
