@@ -24,5 +24,6 @@ http:// github.com - automatic!
 >the present is our past
 
 i think you should use an <addr> element here instead
+~~this~~
 
 :bowtie:
