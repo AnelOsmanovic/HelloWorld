@@ -11,12 +11,12 @@ item 2
 3. item 3
   1. Item 3 a
 
-##this is how you add images 
+##this is how you add images##
 
 ![GitHub Logo] (/images/logo.png)
 Format: ![Alt Text] (url)
 
-###Links
+###Links###
 http:// github.com - automatic!
 [GitHub] (http://github.com)
 
