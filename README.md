@@ -1,8 +1,10 @@
 ###### HelloWorld
 *GitHub learning experience!*
 
-*listing items
-*listing item 2
+*listing 
+items
+*listing 
+item 2
 
 1. item 1 
 2. item 2
