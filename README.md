@@ -1,7 +1,7 @@
 ###### HelloWorld
 *GitHub learning experience!*
 
-# this is a <h1> tag
+### this is a <h3> tag
 
 *listing 
 items
@@ -13,19 +13,19 @@ item 2
 3. item 3
   1. Item 3 a
 
-##this is how you add images
+#### this is how you add images
 
-![GitHub Logo] (/images/logo.png)
+! [GitHub Logo] (/images/logo.png)
 Format: ![Alt Text] (url)
 
-###Links
+### Links
 http:// github.com - automatic!
 [GitHub] (http://github.com)
 
->were living the future so
->the present is our past
+> were living the future so
+> the present is our past
 
-i think you should use an <addr> element here instead
+ i think you should use an <addr> element here instead
 ~~this~~
 (like http://www.github.com/)
 :bowtie:
