@@ -25,5 +25,5 @@ http:// github.com - automatic!
 
 i think you should use an <addr> element here instead
 ~~this~~
-
+(like http://www.github.com/)
 :bowtie:
