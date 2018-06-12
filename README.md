@@ -21,4 +21,4 @@ http:// github.com - automatic!
 >were living the future so
 >the present is our past
 
-i think you should ue an '<addr>' element here instead
+i think you should use an '<addr>' element here instead
