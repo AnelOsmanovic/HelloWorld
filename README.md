@@ -11,7 +11,8 @@ item 2
 3. item 3
   1. Item 3 a
 
-##this is how you add images ![GitHub Logo] (/images/logo.png)
+##this is how you add images 
+![GitHub Logo] (/images/logo.png)
 format: ![Alt Text] (url)
 
 ###Links
@@ -21,4 +22,4 @@ http:// github.com - automatic!
 >were living the future so
 >the present is our past
 
-i think you should use an '<addr>' element here instead
+i think you should use an <addr> element here instead
