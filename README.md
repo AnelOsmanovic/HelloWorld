@@ -16,8 +16,7 @@ item 2
 format: ![Alt Text] (url)
 
 ###Links
-http:// github.com - automatic!
-[GitHub] (http://github.com)
+http:// github.com - automatic![GitHub] (http://github.com)
 
 >were living the future so
 >the present is our past
